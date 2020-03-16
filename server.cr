@@ -1,7 +1,7 @@
 require "kemal"
 
 get "/" do
-  "Hello World"
+  "Hello World!"
 end
 
 Kemal.run
